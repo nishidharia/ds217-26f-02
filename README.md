@@ -2,11 +2,11 @@
 
 ## Project description
 
-TODO: Replace this line with a 30-300 character description of what this project does. (This is part of the assignment, read on and it will make more sense.)
+This project reads clinic data, chooses which blood pressure reasings are usable, gives a summary of patient vitals, creates a list of followups based on the blood pressure. 
 
 ## Run
 
-TODO: Replace this line with the Python 3.13 terminal command that runs your report script.
+Run `python3 clinic_report.py` from the assignment folder.
 
 ## Files
 
