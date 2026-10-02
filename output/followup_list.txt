@@ -1,0 +1,10 @@
+Cutoff: 140 mmHg
+Reason: I chose 140 mmHg to prioritize patients with higher systolic readings for follow-up.
+P011
+P018
+P022
+P028
+P025
+P014
+P006
+P002
